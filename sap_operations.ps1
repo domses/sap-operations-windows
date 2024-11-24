@@ -18,7 +18,7 @@
 		===========================================================================
 		Created on:   	Windows
 		Created by:   	Dominik Kastner
-		Organization: 	unit-IT
+		Organization: 	DKIT
 		Version:		0.9
 		===========================================================================
 #>
